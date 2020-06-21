@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-21T14:35:50.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="vMB1OSsQ9BiwwViuaeN-" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-21T14:37:34.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="NPjG8Nqt30bJICxAa44n" version="13.3.0" type="github">
   <diagram id="0j7kQBx2fWOavdLrpgRF" name="Page-1">
     <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,8 +123,8 @@
         <mxCell id="H5yqWrvkyhw7wRc6On9Z-1" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3111103360615099;arrowSize=0.43904802594865944;" parent="1" vertex="1">
           <mxGeometry x="400" y="320" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gPYuJFj_v8BSPi5QUqBB-1" value="&lt;font face=&quot;cambria, serif&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Strategy&amp;nbsp;Map&lt;/span&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="30" width="303" height="20" as="geometry" />
+        <mxCell id="gPYuJFj_v8BSPi5QUqBB-1" value="&lt;font face=&quot;cambria, serif&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;u&gt;Strategy Map of Carphone Warehouse&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223.75" y="30" width="406.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
